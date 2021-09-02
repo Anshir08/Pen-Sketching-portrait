@@ -16,3 +16,5 @@ and yeah!! also try the code with laptop cam as i told you in introduction.
 
 # Libraries 
 In the full python code, i just use one library - 'Open-cv' i.e., import cv2.
+
+MIT
