@@ -14,6 +14,10 @@ In addition to these i put the images as example in 'Images' folder, which is gi
 
 and yeah!! also try the code with laptop cam as i told you in introduction.
 
+# Future
+
+I am working on converting this software as a web app with some UI so can use it easily.
+
 # Libraries 
 In the software, i just use one library - 'Open-cv' i.e., import cv2.
 
