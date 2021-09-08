@@ -1,4 +1,4 @@
-# Pen-Sketching-portrait
+# Pencil-Sketching-portrait
 
 # Introduction
 In this repository, you can easily make the portrait or pen sketch of any image with just a click.
